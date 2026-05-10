@@ -50,7 +50,7 @@ If you find our work and our dataset IRBlurUAV useful for your research, please 
   author    = {Xiaolin Wang and Houzhang Fang and Qingshan Li and Lu Wang and Yi Chang and Luxin Yan},
   booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year      = {2026},
-  pages     = { },
+  pages     = {10181-10189},
 }
 ```
 
